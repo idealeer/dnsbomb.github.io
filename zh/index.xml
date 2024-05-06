@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DNS炸弹</title>
+    <link>https://dnsbomb.net/zh/</link>
+      <atom:link href="https://dnsbomb.net/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>DNS炸弹</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://dnsbomb.net/media/icon_hu9f9a71b943068991cd8542ff13b9266c_569228_512x512_fill_lanczos_center_3.png</url>
+      <title>DNS炸弹</title>
+      <link>https://dnsbomb.net/zh/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://dnsbomb.net/zh/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dnsbomb.net/zh/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
